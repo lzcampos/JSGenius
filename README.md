@@ -1,4 +1,6 @@
-# js_g3n1u5
+# JS Genius
+
+Basically Genius made in Javascript (Vue.js)
 
 ## Project setup
 ```
